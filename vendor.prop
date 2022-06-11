@@ -186,6 +186,9 @@ persist.sys.default_scaling_gov=true
 # Radio
 persist.vendor.radio.enableadvancedscan=false
 
+# Render
+debug.cpurend.vsync=false
+
 # USB
 vendor.usb.diag.func.name=diag
 vendor.usb.dpl.inst.name=dpl
